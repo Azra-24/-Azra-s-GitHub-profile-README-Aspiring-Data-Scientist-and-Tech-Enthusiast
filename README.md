@@ -23,7 +23,7 @@
 
 ---
 
-📄 [Click here to view my Resume (PDF)](./SHAIK%20AZRA%20ANISHA.pdf)
+📄 [Click here to view my Resume (PDF)]([./SHAIK%20AZRA%20ANISHA.pdf](https://github.com/Azra-24/-Azra-s-GitHub-profile-README-Aspiring-Data-Scientist-and-Tech-Enthusiast/blob/main/SHAIK%20AZRA%20ANISHA.pdf))
 
 ---
 

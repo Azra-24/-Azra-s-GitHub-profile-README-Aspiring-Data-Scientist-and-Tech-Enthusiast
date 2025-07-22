@@ -25,7 +25,7 @@
 
 ## 📄 Resume
 
-📌 [Click here to view my Resume (PDF)](https://github.com/Azra-24/Azra-s-GitHub-profile-README-Aspiring-Data-Scientist-and-Tech-Enthusiast/raw/main/SHAIK%20AZRA%20ANISHA.pdf)
+Please refer to the `SHAIK AZRA ANISHA.pdf` file in this repository to view my resume.
 
 ---
 

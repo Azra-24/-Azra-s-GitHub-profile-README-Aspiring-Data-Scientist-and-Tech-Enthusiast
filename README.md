@@ -23,9 +23,7 @@
 
 ---
 
-## 📄 Resume
-
-📌 [View My Resume (PDF)](file:///C:/Users/azras/OneDrive/Desktop/MY%20ENGI/SHAIK%20AZRA%20ANISHA.pdf)
+📄 [Click here to view my Resume (PDF)](./SHAIK%20AZRA%20ANISHA.pdf)
 
 ---
 
